@@ -1,0 +1,471 @@
+{
+    "sakhaE":[
+    {
+
+        "keywords": [  "gunas" , "passion", "ignorance", "goodness", "mode"],
+        "topic": "Philosophy “Mode of Nature”",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "In goodness you can understand things—knowledge. You can know that there is God, that this world was created by Him, and so many things, actual things—the sun is this, the moon is this—perfect knowledge."
+    },
+    {
+
+        "keywords": [ "karma", "modes" , "determines "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Yes. According to the association of the modes of nature, your activities are being contaminated ."
+    },
+    {
+
+        "keywords": [ "Cheating" , "mode" ,"karma "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Cheating is mixed passion and ignorance. "
+    },
+    {
+
+        "keywords": [ "helps"  , "another person" , "mode" ,"karma"],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "That is goodness. "
+    },
+    {
+
+        "keywords": [ "Goodness", "intelligence" , "knowledge", "modes "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": "yes "
+    },
+    {
+
+        "keywords": [ "helping", "person" , "karma"],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": "That means that he is ignorant and you are trying to enlighten him. "
+    },
+    {
+
+        "keywords": [ "helping", "person" , "karma"],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": "That means that he is ignorant and you are trying to enlighten him. "
+    },
+    {
+
+        "keywords": [ "ignorance" , "charity" ,"modes"],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "There are three kinds of charities—good, passionate and ignorant. Goodness is giving charity where charity must be given."
+    },
+    {
+
+        "keywords": [ "charity", "food" , "hungry "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": "Well, that depends on the circumstances. For example, a doctor has forbidden his patient to take any solid food, and if the patient is asking, “Give me some solids,” and if you give him solid food in charity, then you are not doing good to him. That is ignorance ."
+    },
+    {
+
+        "keywords": [ "devotees" , "accumulating karma" , "modes", "goodness" ,"beyond"],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": "They are above goodness! Śuddha-sattva. The devotees are not in this material world. They are in the spiritual world. Devotees are neither in goodness, passion nor ignorance. They are transcendental to all these qualities."
+    },
+    {
+
+        "keywords": [ "devotee" , "faithful", "transcendental", "stage   "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": "Yes. Devotee... You can become a devotee as they have become. It is not difficult. Simply you have to engage yourself in the transcendental loving service of the Lord, that’s all."
+    },
+    {
+
+        "keywords": [ "wish", "gain" , "knowledge" , "feel" , "god presence", "god  "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "Yes! If you miss this human form of life, then it is a great loss. That is a great chance given to the living entity to get out of the entanglement of material existence."
+    },
+    {
+
+        "keywords": [ "thankful" , "feel"  , "ask" , "question "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "Yes, you can learn more and more."
+    
+    },
+    {
+
+        "keywords": [ "connections" , "marriage" , "engaged"],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "negative",
+        "opinion": "positive",
+        "response": "Marriage is no barrier. there are four different orders of spiritual life—brahmacārī,  gṛhastha, vānaprastha  and  sannyāsa. "
+    
+    },
+    {
+
+        "keywords": [ "forget" , "wife "],
+        "topic": "Philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "negative",
+        "response": "Yes. Forgetting is not very difficult, if you try to forget. Out of sight, out of mind. [All laugh.] Just as I have my wife, children, grandchildren—everything. But, out of sight, out of mind, that’s all. Therefore, vānaprastha, sannyāsa—everything is nicely arranged by the Vedic system."
+    
+    },
+    {
+
+        "keywords": [ "married life", "sex life", "material life", "relationships","attachment"],
+        "topic": "Balance between material life and Spritual life",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "The Vedic principle is that one should avoid sex life altogether. There are different attachments for material enjoyment, of which sex life is the topmost enjoyment. "
+    
+    },
+    {
+
+        "keywords": [ "attachment between male and female","Varnasrama-dharma", "vedic system", "sex life", "material life", "relationships"],
+        "topic": "Balance between material life and Spritual life",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "So if you want to get liberation from this material world, then that attachment should be reduced to nil.our Vedic system is to first of all train a boy as a brahmacārī—no sex life. The Vedic principle is to reduce attachment, not to increase it. Therefore the whole system is called varṇāśrama-dharma."
+    
+    },
+    {
+
+        "keywords": [ "attachment and illusion", "sex life", "material life", "relationships"],
+        "topic": "Balance between material life and Spritual life",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "This sex life is the basic principle of material life—attachment for man or woman."
+    
+    },
+    {
+
+        "keywords": [ "sex education", "living together before marriage" , "sex life"," material life"," relationships"],
+        "topic": "Balance between material life and Spritual life",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": "A boy is trained as a student up to twenty-five years, restricting sex life. Brahmacārī.he cannot have sex life without being married.But people are gradually descending from human society. They are forgetting marriage.the boy and the girl will simply agree to live together, and their relationship will exist on sexual power.But according to Vedic culture, we are interested in sex only for begetting children, that’s all. Not to study the psychology of sex life. There is already natural psychology for that.But education should be given to stop it. That is real education."
+    
+    },
+    {
+
+        "keywords": [ "homosexuality", "sex life", "material life", "relationships", "spiritual "],
+        "topic": "Balance between material life and Spritual life",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "negative",
+        "response": "No, their idea is that marriage is for legalized prostitution.There should be a spiritual knowledge to educate people in the essential principles of spiritual life. It is not a sectarian religious . It is a cultural for everyone’s benefit."
+    
+    },
+    {
+
+        "keywords": [ "what is scientist", "who is scientist"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "One who knows things as they are."
+    
+    },
+    {
+
+        "keywords": [ "why only krsna", "krsna"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Because he means all attractive. Krsna means “all attractive"
+    
+    },
+    {
+
+        "keywords": [ "why only krsna", "krsna[name meaning, all powerful"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "positive",
+        "response": " unless someone is powerful, how can someone be all attractive? God must be very beautiful, god must be very wise, god must be very powerful, god must be very famous."
+    
+    },
+    {
+
+        "keywords": [ "krsna", "attractive", "rascal"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": " : Yes! Krnsa was the greatest rascals of all time because he was always teasing the gopis."
+        
+    },
+    {
+
+        "keywords": [ "teasing, krsna"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Our formula of God is that krsna is the source of everything. Kṛṣṇa is absolute. Krsna is God. Kṛṣṇa is all-good"
+        
+    },
+    {
+
+        "keywords": [ "some people", "do not find krsna attractive"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "All people will find Krsna attractive. Who is not attracted? just give an example: “This man or this living entity is not attracted to Kṛṣṇa.”Just find such a person. Nobody is richer than Kṛṣṇa. Therefore Kṛṣṇa is attractive to the man."
+        
+    },
+    {
+
+        "keywords": [ " krsna, how", "greatest scientist?"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Because Krsna knows everything. A scientist is one who knows a subject matter thoroughly. Krsna He is a scientist. Kṛṣṇa—He knows everything. Unless you have perfect knowledge, how can you teach? Teaching without having perfect knowledge is cheating! Just like the scientists say, “There was a chunk... and the creation took place. Perhaps. Maybe...” What is this? Simply cheating! It is not teaching; it is cheating"
+        
+    },
+    {
+
+        "keywords": [ "proper duty", "teacher", "science", "in classroom"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Classroom? You should simply teach about Kṛṣṇa. That will include everything. His aim should be to know Kṛṣṇa. "
+        
+    },
+    {
+
+        "keywords": [ " krsna-ites"],
+        "topic": "philosophy",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Our knowledge is perfect. If I say that heat is the energy of Kṛṣṇa, you cannot deny it, because it is not your energy. In your body there is some certain amount of heat. Similarly, heat is someone’s energy. And who is that person? That is Kṛṣṇa. Kṛṣṇa says, “Yes, it is My energy.” So my knowledge is perfect. Because I take the version of the greatest scientist, I am the greatest scientist. I may be a fool personally, but because I take knowledge from the greatest scientist, I am the greatest scientist. I have no difficulty."
+    },
+    {
+
+        "keywords": [ "religion", "religious experiences"],
+        "topic": "ritualistic section",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "You first of all be convinced. And then try to convince others. Caitanya Mahāprabhu’s instruction is that you can improve the welfare of others when your own life is a success"
+    },
+    {
+
+        "keywords": [ "Happiness", "Kṛṣṇa consciousness", "permanent happiness"],
+        "topic": "Health and wellness",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "if you become Kṛṣṇa conscious, you will feel happy always. You cannot feel happy without Kṛṣṇa consciousness.we are part and parcel of Kṛṣṇa. We cannot be happy without being part and parcel of Kṛṣṇa. For example: the machine part, without the machine, has no value, but when it is again put into the machine it has value. We are part of Kṛṣṇa; we must join Kṛṣṇa. We can join Kṛṣṇa immediately by our consciousness, simply by thinking, “I am Kṛṣṇa’s, Kṛṣṇa is mine’"
+    },
+    {
+
+        "keywords": [ "Service", "Devotion", "Devotional service"],
+        "topic": "ritualistic section",
+        "intent": "Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Devotionless service is not service, that is business. You do whatever You like, but still You are my worshipable Lord.” That is service. “I don’t ask any return from You.That is service. When you expect some return, that is business."
+    },
+    {
+
+        "keywords": [ "offer" , "humble" , "obiesances "],
+        "topic": "ritualistic section",
+        "intent": "greeting",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "I offer my humble obeisances"
+    },
+    {
+
+        "keywords": [ "associating, devotee", "temple", "advancement", "krishna consciousness" , "started" , "come"  ,"chanting"],
+        "topic": "philosophy",
+        "intent": "random",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "associating with the devotees of the New York temple. With the association of such fine, advanced devotees, I hope that I may make some advancement in Kṛṣṇa consciousness. "
+    },
+    {
+
+        "keywords": [ "thank you" , "kindness" , "shown" , "underserving boy"],
+        "topic": "philosophy",
+        "intent": "greeting",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "Thank you for the kindness you have shown to a very undeserving boy"
+    },
+    {
+
+        "keywords": [ "accept", "blessing"  , "thank you" , "noted  ", "sentiments" , "pleasure" , "glad" , "associating "],
+        "topic": "philosophy",
+        "intent": "greeting",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "I have noted the sentiments expressed therein with great pleasure. I am very glad to hear that you are associating with us."
+    },
+    {
+
+        "keywords": [ "blessing"  , "glad" ,"mercy "],
+        "topic": "philosophy",
+        "intent": "greeting",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "I have all confidence that very quickly Kṛṣṇa will bestow all His blessings upon you, and you will feel yourself becoming perfectly happy in Kṛṣṇa consciousness."
+    },
+    {
+
+        "keywords": [ "advancement ", "krishna consciousness" , "giving up" , "attachment" , "material nature" , "maya ", "renunciation ", "tapasya "],
+        "topic": "philosophy",
+        "intent": "Decision Making Advice",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "advancement in Kṛṣṇa consciousness by voluntarily giving up his attachment to material nature, or māyā. Such renunciation is called tapasya. "
+    },
+    {
+
+        "keywords": [ "austerities" , "good reason"  , "good scientific" , "philosophical mind"  , "transcendental knowledge" , "tapasya" , "spritual life"],
+        "topic": "philosophy",
+        "intent": "Decision Making Advice",
+        "sentiment": "positive",
+        "opinion": "positive",
+        "response": "not very willing to perform austerities without good reason; therefore any man with a good scientific and philosophical mind, like your good self, must first appreciate what transcendental knowledge is. If you get knowledge, automatically tapasya will follow, and then you make your advancement in spiritual life"
+    },
+    {
+
+        "keywords": [ "Actions", "Karma", "Good Karma", "Earn Good Karma"],
+        "topic": "ritualistic section",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Good karma means what is prescribed in the Vedas.So good karma means performance of the yajnas as they are prescribed in the Vedic literatures. And the purpose of this yajna is to satisfy the Supreme Lord."
+    },
+    {
+
+        "keywords": [ "God", "What is God", "Aware of God"],
+        "topic": "ritualistic section",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "A person who does not know what is God, or one who does not try to understand what is God—he is an animal. The animals are with four legs, and that animal is with two legs. And Darwin’s theory is they are monkeys. So anyone who does not know God, or does not try to understand God, is nothing but an animal."
+    },
+    {
+
+        "keywords": [ "People", "Innocent", "Innocent Peoples"],
+        "topic": "ritualistic section",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Our proposition is that one must be very, very intelligent, and then he can understand Kṛṣṇa.Simplicity is all right, but one should not be unintelligent."
+    },
+    {
+
+        "keywords": [ "Intelligent", "Intelligence"],
+        "topic": "philosophy",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "One who knows what he is, what is this world, what is God, what are the interrelations—he is intelligent."
+    },
+    {
+
+        "keywords": [ "Good Karma", "Stay Honest", "Honesty"],
+        "topic": "philosophy",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Yes, to become honest is also good karma. "
+    },
+    {
+        "keywords": [ "Become Liberated"," Liberation"],
+        "topic": "philosophy",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "There is no question of liberation. It is neither fast nor slow. You should first know what is liberation."
+    },
+    {
+
+        "keywords": [ "Honest", "Honesty"],
+        "topic": "philosophy",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "Real honesty is that you should not encroach upon another’s property. This is honesty.So therefore the simple definition of honesty is that you should not encroach upon another’s rights. That is honesty."
+    },
+    {
+
+        "keywords": [ "Honest", "Poor"],
+        "topic": "philosophy",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "You are more hungry than me. That does not mean you are not hungry or I am not hungry. I do not feel hungry now. That does not mean I do not feel hungry or I am not hungry. For the time being you may not be hungry. But tomorrow you’ll be hungry."
+    },
+    {
+
+        "keywords": [ "Honest", "Deserve", "Good", "Stealing"],
+        "topic": "philosophy",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "But the man who is thinking that he is not stealing is also a thief because he does not know that everything belongs to Kṛṣṇa. Therefore, whatever he is accepting, he is stealing."
+    },
+    {
+
+        "keywords": [ "religion", "religious experiences"],
+        "topic": "ritualistic section",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "You first of all be convinced. And then try to convince others.First make your life perfect. Then try to teach others."
+    },
+    {
+
+        "keywords": [ "Happiness", "Kṛṣṇa consciousness", "permanent happiness"],
+        "topic": "ritualistic section",
+        "intent": " Question Answering/Conversation",
+        "sentiment": "neutral",
+        "opinion": "neutral",
+        "response": "if you become Kṛṣṇa conscious, you will feel happy always. You cannot feel happy without Kṛṣṇa consciousness.we are part and parcel of Kṛṣṇa. We cannot be happy without being part and parcel of Kṛṣṇa. For example: the machine part, without the machine, has no value, but when it is again put into the machine it has value. We are part of Kṛṣṇa; we must join Kṛṣṇa. We can join Kṛṣṇa immediately by our consciousness, simply by thinking, “I am Kṛṣṇa’s, Kṛṣṇa is mine’" 
+    }
+]
+
+
+}
