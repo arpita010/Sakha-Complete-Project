@@ -10,7 +10,7 @@ sentiment = SentimentIntensityAnalyzer()
 •(Done) Opinion- Positive, Negative, Neutral
 '''
 
-openai.api_key = "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"
+openai.api_key = ADD_YOUR_API_KEY(Removed because of security purposes)
 #text = input("You: ")
 
 def ask_question(prompt):
