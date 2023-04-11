@@ -16,11 +16,11 @@ public class ViewController {
 	{
 		return "login";
 	}
-	@RequestMapping("/signup")
-	public String signupPage()
-	{
-		return "signup";
-	}
+//	@RequestMapping("/signup")
+//	public String signupPage()
+//	{
+//		return "signup";
+//	}
 	@RequestMapping("/index")
 	public String homepage()
 	{
